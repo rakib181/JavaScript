@@ -1,1 +1,2 @@
-console.log(10 + 50);
+var name = "Tony Stark";
+console.log(name);
