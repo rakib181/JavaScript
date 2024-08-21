@@ -5,5 +5,4 @@ const student = {
    printMark : function() {
       console.log("Marks  : " + this.marks);
    }
-
 }
