@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.calc{
+    margin-top: 200px;
+    align-items: center;
+    height: 460px;
+    width: 300px;
+}
+
+.res{
+    background-color: white;
+    height: 110px;
+    width: 280px;
+    margin:10px;
+}
+
+.sz{
+    height: 50px;
+    width: 50px;
+}
+
+.szdz{
+    height: 50px;
+    width: 80px;
+}
+
+.szeq{
+    height: 50px;
+    width: 100px;
+}
