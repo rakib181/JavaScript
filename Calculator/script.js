@@ -19,6 +19,10 @@ function del(){
    if(s.length === 0){
      return;
    }
+   if(s.includes('Invalid')){
+    existing.innerHTML = '';
+    return;
+   }
    existing.innerHTML = s.slice(0, -1);
 }
 
