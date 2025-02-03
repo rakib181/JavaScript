@@ -1,3 +1,4 @@
+
 function inp(v){
     let existing = document.querySelector('.res');
     if(existing.innerHTML.includes('Invalid') || existing.innerHTML.includes('Infinity')){
