@@ -1,0 +1,2 @@
+We can use there .filter('class', callback)
+in callback function we can set conditions.

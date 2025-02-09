@@ -1,0 +1,3 @@
+The difference between .click() and .on('click') is 
+in .on() you can take any event you want and also you can bind multiple 
+elements attached with the event.

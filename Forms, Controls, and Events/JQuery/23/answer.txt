@@ -1,0 +1,9 @@
+Using trigger() event in JQuery
+
+Example : 
+$("input").select(function(){
+    $("input").after(" Text marked!");
+  });
+$("button").click(function(){
+    $("input").trigger("select");
+});

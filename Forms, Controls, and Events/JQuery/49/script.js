@@ -1,0 +1,1 @@
+$('.box').fadeOut().fadeIn(10000);

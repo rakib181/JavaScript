@@ -1,0 +1,1 @@
+$('p').replaceWith('<h2>Replaced!</h2>');

@@ -1,0 +1,4 @@
+$('img').css({
+    "height" : "500px",
+    "width" : "500px",
+});

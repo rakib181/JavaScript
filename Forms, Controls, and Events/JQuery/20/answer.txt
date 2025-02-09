@@ -1,0 +1,8 @@
+Event delegation is a technique in jQuery where you attach an event 
+listener to a parent element instead of the actual target elements.
+
+Example:
+$(document).on("click", "button", function() {
+    alert("Button clicked!");
+});
+The event is attached to document, which always exists.

@@ -1,0 +1,1 @@
+$('#new_elem').append($('#myElem').clone());

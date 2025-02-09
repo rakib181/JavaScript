@@ -1,0 +1,1 @@
+$('ul li').css('padding', '10px');

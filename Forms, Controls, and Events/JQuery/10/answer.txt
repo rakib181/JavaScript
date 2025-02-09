@@ -1,0 +1,9 @@
+DOM (Document Object Model) traversal in jQuery refers to navigating 
+through elements in the DOM tree to manipulate elements 
+relative to other elements.
+
+Why DOM is useful : 
+1.Efficient Element Selection.
+2.Dynamic Navigation.
+3.Code Optimization.
+4.Better Maintainability

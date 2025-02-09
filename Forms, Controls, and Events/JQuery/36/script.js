@@ -1,0 +1,1 @@
+$('#logo').appendTo('.new_container');
